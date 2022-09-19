@@ -1,5 +1,5 @@
 # ADATscan
-Scripts, results, and test files for running ADATscan
+Scripts and sample results for running ADATscan
 
 #File 1:
 combined_ADATscan_results.csv
