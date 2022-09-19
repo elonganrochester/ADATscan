@@ -8,7 +8,7 @@ contains the combined results for all four species with a column labeling the en
 #File 2: 
 ADATscan_dmel.py
 ADATscan script tailored to the fasta file provided on flybase 
-Usage: python ADATscan_dmel.py <background model filename> <results filename>
+Usage: python ADATscan_dmel.py <input fasta exome file (no newlines other than those seperating entry names from entries!)> <background model filename> <results filename>
   
 #File 3
 dmel_ADATscan_results.csv
@@ -25,7 +25,7 @@ PANTHER results for drosophila melanogaster derived from http://geneontology.org
 #File 6
 ADATscan_CCDS.py
 ADATscan script tailored to the fasta files provided on CCDS (human and mouse) 
-Usage: python ADATscan_CCDS.py <background model filename> <results filename>
+Usage: python ADATscan_CCDS.py <input fasta exome file (no newlines other than those seperating entry names from entries!)> <background model filename> <results filename>
 
 #File 7
 gProfiler_hsapiens_9-16-2022_11-25-39 AM.csv
@@ -62,7 +62,7 @@ PANTHER results for mice derived from http://geneontology.org/
 #File 15
 ADATscan_yeast.py
 ADATscan script tailored to the fasta files provided on SGD (Scer) 
-Usage: python ADATscan_yeast.py <background model filename> <results filename>
+Usage: python ADATscan_yeast.py <input fasta exome file (no newlines other than those seperating entry names from entries!)> <background model filename> <results filename>
 
 #File 16
 yeast_ADATscan_results.csv
@@ -78,5 +78,5 @@ PANTHER results for Scer derived from http://geneontology.org/
 
 #File 19 
 ADATscan_generalized.py
-Usage: python ADATscan_generalized.py <background model filename> <results filename> <input codons 1 at a time then type "n">
+Usage: python ADATscan_generalized.py <input fasta exome file (no newlines other than those seperating entry names from entries!)> <background model filename> <results filename> <input codons 1 at a time then type "n">
 
