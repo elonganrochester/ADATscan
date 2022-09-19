@@ -1,0 +1,44 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20220712)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.6799722 Released 2022-07-01
+Analyzed List:	upload_1 (Saccharomyces cerevisiae)
+Reference List:	Saccharomyces cerevisiae (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	2119
+GO biological process complete	Saccharomyces cerevisiae - REFLIST (6050)	upload_1 (101)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+ATP generation from ADP (GO:0006757)	26	7	.43	+	16.13	1.67E-03
+glycolytic process (GO:0006096)	26	7	.43	+	16.13	1.67E-03
+ADP metabolic process (GO:0046031)	28	7	.47	+	14.98	2.55E-03
+nucleoside diphosphate phosphorylation (GO:0006165)	28	7	.47	+	14.98	2.55E-03
+purine ribonucleoside diphosphate metabolic process (GO:0009179)	29	7	.48	+	14.46	3.13E-03
+nucleotide phosphorylation (GO:0046939)	29	7	.48	+	14.46	3.13E-03
+purine nucleoside diphosphate metabolic process (GO:0009135)	29	7	.48	+	14.46	3.13E-03
+ribonucleoside diphosphate metabolic process (GO:0009185)	31	7	.52	+	13.53	4.60E-03
+pyruvate metabolic process (GO:0006090)	38	8	.63	+	12.61	1.32E-03
+nucleoside diphosphate metabolic process (GO:0009132)	35	7	.58	+	11.98	9.32E-03
+alpha-amino acid biosynthetic process (GO:1901607)	113	14	1.89	+	7.42	2.96E-05
+carbohydrate catabolic process (GO:0016052)	81	10	1.35	+	7.40	4.11E-03
+cellular amino acid biosynthetic process (GO:0008652)	127	15	2.12	+	7.07	1.55E-05
+alpha-amino acid metabolic process (GO:1901605)	173	18	2.89	+	6.23	2.68E-06
+fungal-type cell wall organization (GO:0031505)	174	17	2.90	+	5.85	1.96E-05
+alcohol metabolic process (GO:0006066)	117	11	1.95	+	5.63	1.42E-02
+cellular amino acid metabolic process (GO:0006520)	240	22	4.01	+	5.49	2.84E-07
+fungal-type cell wall organization or biogenesis (GO:0071852)	210	17	3.51	+	4.85	2.58E-04
+carboxylic acid biosynthetic process (GO:0046394)	188	15	3.14	+	4.78	1.84E-03
+small molecule biosynthetic process (GO:0044283)	314	25	5.24	+	4.77	2.09E-07
+organic acid biosynthetic process (GO:0016053)	189	15	3.16	+	4.75	1.96E-03
+carboxylic acid metabolic process (GO:0019752)	392	30	6.54	+	4.58	4.28E-09
+oxoacid metabolic process (GO:0043436)	410	31	6.84	+	4.53	2.21E-09
+organic acid metabolic process (GO:0006082)	413	31	6.89	+	4.50	2.66E-09
+cell wall organization (GO:0071555)	227	17	3.79	+	4.49	7.33E-04
+external encapsulating structure organization (GO:0045229)	227	17	3.79	+	4.49	7.33E-04
+cell wall organization or biogenesis (GO:0071554)	283	17	4.72	+	3.60	1.30E-02
+small molecule metabolic process (GO:0044281)	726	41	12.12	+	3.38	1.42E-09
+organonitrogen compound biosynthetic process (GO:1901566)	870	32	14.52	+	2.20	2.47E-02
+organic substance biosynthetic process (GO:1901576)	1420	45	23.71	+	1.90	9.90E-03
+biosynthetic process (GO:0009058)	1441	45	24.06	+	1.87	1.24E-02
