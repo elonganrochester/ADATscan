@@ -79,4 +79,4 @@ PANTHER results for Scer derived from http://geneontology.org/
 #File 19 
 ADATscan_generalized.py
 Usage: python ADATscan_generalized.py <input fasta exome file (no newlines other than those seperating entry names from entries!)> <background model filename> <results filename> <input codons 1 at a time then type "n">
-
+NOTE: ALTERNATIVE GENETIC CODES MUST BE SPECIFIED IN THE SCRIPT IF RUNNING ON AN EXOME OF A SPECIES WITH AN ALTERRED GENETIC CODE
