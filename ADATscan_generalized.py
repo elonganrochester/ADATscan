@@ -492,11 +492,15 @@ for line in hexome: #for line in fasta file
 	if x[1]*zzz < 0.05 and chisquareexp[0] <= chisquareobs[0]:
 		bonferroni_enriched_depleted.append('enriched')
 	if x[1]*zzz >= 0.05: bonferroni_enriched_depleted.append('nonsignificant')
+	if chisquareexp[0] == 0:
+		if chisquareobs[0] == 0:
+			bonferroni_enriched_depleted.append('nonsignificant')
+
 
 
 hexome.close()
 
-
+sys.stdout=original_stdout
 
 g = open(sys.argv[3], 'w')
 sys.stdout = g
