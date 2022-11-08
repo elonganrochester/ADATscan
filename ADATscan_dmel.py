@@ -160,7 +160,7 @@ rfrac = radatreqcount/rcount
 
 #Print general results of this upstream loop to the null model file 
 original_stdout = sys.stdout 
-f = open(sys.argv[2], 'w') #initialize strains, category, population, junction, homozygous vs heterozygous file (used to make donor file and hap file) 
+f = open(sys.argv[2], 'w') 
 sys.stdout = f
 print("Genes lacking start codon count:", start_count,"Genes lacking stop codon count:", stop_count)
 print("Genes retained from file:", len(genes))
