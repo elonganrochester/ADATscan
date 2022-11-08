@@ -132,6 +132,27 @@ vadatreqcount = 0
 rcount = 0
 radatreqcount = 0
 
+cadatreqcount = 0
+ccount = 0
+dadatreqcount = 0
+dcount = 0
+eadatreqcount = 0
+ecount = 0
+fadatreqcount = 0
+fcount = 0
+gadatreqcount = 0
+gcount = 0
+hadatreqcount = 0
+hcount = 0
+kadatreqcount = 0
+kcount = 0
+nadatreqcount = 0
+ncount = 0
+qadatreqcount = 0
+qcount = 0
+yadatreqcount = 0
+ycount = 0
+
 
 counter = 0 #initialize counter to count total lines in file 
 
@@ -315,16 +336,16 @@ if 'L' in aa_set: print('Codon of interest fraction luecine:'+str(lfrac ))
 if 'I' in aa_set: print('Codon of interest fraction isoluecine:'+str(ifrac ))
 if 'V' in aa_set: print('Codon of interest fraction valine:'+str(vfrac ))
 if 'R' in aa_set: print('Codon of interest fraction arginine:'+str(rfrac)) 
-if 'C' in aa_set: print('Codon of interest fraction cysteine:'+str(tfrac))
-if 'D' in aa_set: print('Codon of interest fraction aspartic acid:'+str(afrac))
-if 'E' in aa_set: print('Codon of interest fraction glutamic acid:'+str(pfrac)) 
-if 'F' in aa_set: print('Codon of interest fraction phenylalanine:'+str(sfrac ))
-if 'G' in aa_set: print('Codon of interest fraction glycine:'+str(lfrac ))
-if 'H' in aa_set: print('Codon of interest fraction histidine:'+str(ifrac ))
-if 'K' in aa_set: print('Codon of interest fraction lysine:'+str(vfrac ))
+if 'C' in aa_set: print('Codon of interest fraction cysteine:'+str(cfrac))
+if 'D' in aa_set: print('Codon of interest fraction aspartic acid:'+str(dfrac))
+if 'E' in aa_set: print('Codon of interest fraction glutamic acid:'+str(efrac)) 
+if 'F' in aa_set: print('Codon of interest fraction phenylalanine:'+str(ffrac ))
+if 'G' in aa_set: print('Codon of interest fraction glycine:'+str(gfrac ))
+if 'H' in aa_set: print('Codon of interest fraction histidine:'+str(hfrac ))
+if 'K' in aa_set: print('Codon of interest fraction lysine:'+str(kfrac ))
 if 'N' in aa_set: print('Codon of interest fraction asparagine:'+str(ifrac ))
-if 'Q' in aa_set: print('Codon of interest fraction glutamine:'+str(vfrac ))
-if 'Y' in aa_set: print('Codon of interest fraction tyrosine:'+str(rfrac)) 
+if 'Q' in aa_set: print('Codon of interest fraction glutamine:'+str(qfrac ))
+if 'Y' in aa_set: print('Codon of interest fraction tyrosine:'+str(yfrac)) 
 
 
 
