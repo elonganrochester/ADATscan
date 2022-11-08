@@ -4,8 +4,6 @@ python ADATscan_CCDS.py <fasta> <null model output> <Enrichment and Depletion ou
 
 <fasta> should lack newline characters within the genes and should only contain coding seq (no introns)
 
-<output> is a file with 
-
 Note: null model of codon usage is generated using the fasta as input
 
 Note: if isoforms derived from the same coding sequence are not denoted with <gene>.1 <gene>.2 then modification is needed  
@@ -161,7 +159,7 @@ rfrac = radatreqcount/rcount
 
 #Print general results of this upstream loop to the null model file 
 original_stdout = sys.stdout 
-f = open(sys.argv[2], 'w') #initialize strains, category, population, junction, homozygous vs heterozygous file (used to make donor file and hap file) 
+f = open(sys.argv[2], 'w') 
 sys.stdout = f
 print("Genes lacking start codon count:", start_count,"Genes lacking stop codon count:", stop_count)
 print("Genes retained from file:", len(genes))
