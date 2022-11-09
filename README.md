@@ -1,9 +1,9 @@
 # ADATscan
-Scripts and sample results for running ADATscan
+#Scripts and sample results for running ADATscan
 
 #File 1:
-combined_ADATscan_results.csv
-contains the combined results for all four species with a column labeling the entry with the species (used for plotting)
+#combined_ADATscan_results.csv
+#contains the combined results for all four species with a column labeling the entry with the species (used for plotting)
 
 #File 2: 
 ADATscan_dmel.py
