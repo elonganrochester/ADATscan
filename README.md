@@ -80,3 +80,17 @@ PANTHER results for Scer derived from http://geneontology.org/
 ADATscan_generalized.py
 Usage: python ADATscan_generalized.py <input fasta exome file (no newlines other than those seperating entry names from entries!)> <background model filename> <results filename> <input codons 1 at a time then type "n">
 NOTE: ALTERNATIVE GENETIC CODES MUST BE SPECIFIED IN THE SCRIPT IF RUNNING ON AN EXOME OF A SPECIES WITH AN ALTERRED GENETIC CODE
+
+#File 20 
+ADATscan_celegans.py
+ADATscan script tailored to the fasta files provided on Wormbase
+Usage: python ADATscan_celegans.py <input fasta exome file (no newlines other than those seperating entry names from entries!)> <background model filename> <results filename>
+
+#File 21
+c_elegans_adatscan_background_model.csv
+background model for ADAT-dependent codon usage in C elegans
+
+#File 22 
+c_elegans_adatscan_results.csv
+results obtained in this study when running ADATscan on the C elegans exome 
+
