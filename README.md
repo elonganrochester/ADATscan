@@ -16,7 +16,7 @@ There are five versions of the script in this repository
 
 Notation in these databases are idiosyncratic, hence serarate versions. When using the generalized version, it is VERY important that redundent orfs (for example isoforms) are excluded. The background model will be calculated incorrectly if isoforms are retained. The generalized version also requires the user to input the codons of interest.
 
-The example folder contains a text document that walks through downloading and running ADATscan and some example files 
+The example folder contains a text document that walks through running ADATscan and contains some example files 
 The scripts folder contains the five versions ADATsan
 The results folder contains data derived from ADATscan for human, mouse, nematode, fruit fly, and yeast exomes. Data derived from analyses using the Bonferroni correction and the Benjamini-Hochberg procedure (FDR = 0.01) are prvided in separate directories. 
 
