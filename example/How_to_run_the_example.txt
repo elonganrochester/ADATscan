@@ -1,0 +1,13 @@
+Step 1: Download the 2 requisite files ADATscan_generalized.py and seqs_AAA_AAG_example.fasta
+Step 2: Place these files in a directory on their own
+Step 3: Navigate to this directory via the command line
+Step 4: run the following command: pythpn ADATscan_generalized.py seqs_AAA_AAG_example.fasta model.csv results.csv gene_body.csv 
+Step 5: When prompted for input, type 'aaa' and enter it as input then type 'n' and enter it as input
+Step 6: When prompted for correction method, either type 'b' or 'bh' and then when prompted for FDR, type '0.01' 
+Step 7: Examine results. If the script does not run or the three files generated do not match those in this folder, then there may be an issue with required modules. 
+
+ADATscan makes use of the following python modules: 
+sys
+numpy
+scipy
+scipy stats
