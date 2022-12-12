@@ -3,9 +3,9 @@ This repository contains the code for ADATscan and results derived from ADATscan
 ADATscan is a python script that takes in a fasta file of orfs (no introns, no newline characters in sequences)
 ADATscan requires the user to input the multiple testing correction method they desire. Bonferroni or the Banjamini-Hochberg have been implemented. If the Banjamini-Hochberg correction is desired then the user must also input the desired FDR.  
 ADATscan outputs three files: 
-1)The background model of ADAT-dependent codon usage in the exome provided
-2)The results of the statistical tests and summary stats for each gene 
-3)A file tyhat allows for plotting ADAT-dependent codon freqeucnies along gene bodies among enriched, depleted, and nonsignificant genes. 
+1) The background model of ADAT-dependent codon usage in the exome provided
+2) The results of the statistical tests and summary stats for each gene 
+3) A file tyhat allows for plotting ADAT-dependent codon freqeucnies along gene bodies among enriched, depleted, and nonsignificant genes. 
 There are five versions of the script in this repository
 1) Generalized version
 2) tailored for CCDS
