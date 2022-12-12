@@ -1,6 +1,6 @@
 # ADATscan
 This repository contains the code for ADATscan and results derived from ADATscan. 
-ADATscan is a python script that takes in a fasta file of orfs (no introns, no newline characters in sequences)
+ADATscan is a python script that takes in a fasta file of orfs (no introns, no newline characters in sequences) and outputs whether the entries in the file show enrichment or depletion for ADAT-dependent codons as compared to the exomic background of codon usage.
 ADATscan requires the user to input the multiple testing correction method they desire. Bonferroni or the Banjamini-Hochberg have been implemented. If the Banjamini-Hochberg correction is desired then the user must also input the desired FDR.  
 ADATscan outputs three files: 
 1) The background model of ADAT-dependent codon usage in the exome provided
@@ -14,7 +14,7 @@ There are five versions of the script in this repository
 4) tailored for flybase 
 5) tailored for sgd 
 
-Notation in these databases are idiosyncratic, hence serarate versions. When using the generalized version, it is VERY important that redundent orfs (for example isoforms) are excluded. The background model will be calculated incorrectly if isoforms are retained. 
+Notation in these databases are idiosyncratic, hence serarate versions. When using the generalized version, it is VERY important that redundent orfs (for example isoforms) are excluded. The background model will be calculated incorrectly if isoforms are retained. The generalized version also requires the user to input the codons of interest.
 
 The example folder contains a word document that walks through downloading and running ADATscan.
 The scripts folder contains a 
