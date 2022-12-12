@@ -1,2 +1,2 @@
-Results for ADATscan for D melanogaster genes with Banjamini-Hochberg correction (FDR = 0.01)
+Results for ADATscan for D melanogaster genes with Benjamini-Hochberg correction (FDR = 0.01)
 
