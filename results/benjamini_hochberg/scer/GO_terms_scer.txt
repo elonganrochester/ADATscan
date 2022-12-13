@@ -1,0 +1,70 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20221013)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.6799722 Released 2022-07-01
+Analyzed List:	upload_1 (Saccharomyces cerevisiae)
+Reference List:	Saccharomyces cerevisiae (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	2119
+GO biological process complete	Saccharomyces cerevisiae - REFLIST (6050)	upload_1 (220)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+gluconeogenesis (GO:0006094)	14	7	.51	+	13.75	9.64E-03
+hexose biosynthetic process (GO:0019319)	14	7	.51	+	13.75	9.64E-03
+monosaccharide biosynthetic process (GO:0046364)	16	7	.58	+	12.03	1.91E-02
+ATP generation from ADP (GO:0006757)	26	11	.95	+	11.63	6.27E-05
+glycolytic process (GO:0006096)	26	11	.95	+	11.63	6.27E-05
+ADP metabolic process (GO:0046031)	28	11	1.02	+	10.80	1.16E-04
+nucleoside diphosphate phosphorylation (GO:0006165)	28	11	1.02	+	10.80	1.16E-04
+purine ribonucleoside diphosphate metabolic process (GO:0009179)	29	11	1.05	+	10.43	1.55E-04
+nucleotide phosphorylation (GO:0046939)	29	11	1.05	+	10.43	1.55E-04
+purine nucleoside diphosphate metabolic process (GO:0009135)	29	11	1.05	+	10.43	1.55E-04
+reactive oxygen species metabolic process (GO:0072593)	19	7	.69	+	10.13	4.69E-02
+ribonucleoside diphosphate metabolic process (GO:0009185)	31	11	1.13	+	9.76	2.69E-04
+pyruvate metabolic process (GO:0006090)	38	13	1.38	+	9.41	2.66E-05
+nucleoside diphosphate metabolic process (GO:0009132)	35	11	1.27	+	8.64	7.41E-04
+ATP metabolic process (GO:0046034)	48	13	1.75	+	7.45	2.68E-04
+glucose metabolic process (GO:0006006)	35	9	1.27	+	7.07	3.52E-02
+purine ribonucleoside triphosphate metabolic process (GO:0009205)	53	13	1.93	+	6.75	7.15E-04
+purine nucleoside triphosphate metabolic process (GO:0009144)	55	13	2.00	+	6.50	1.03E-03
+ribonucleoside triphosphate metabolic process (GO:0009199)	59	13	2.15	+	6.06	2.06E-03
+nucleoside triphosphate metabolic process (GO:0009141)	67	13	2.44	+	5.34	7.13E-03
+carbohydrate catabolic process (GO:0016052)	81	15	2.95	+	5.09	2.08E-03
+alcohol metabolic process (GO:0006066)	117	19	4.25	+	4.47	4.42E-04
+fungal-type cell wall organization (GO:0031505)	174	25	6.33	+	3.95	4.30E-05
+purine ribonucleotide metabolic process (GO:0009150)	105	15	3.82	+	3.93	3.55E-02
+alpha-amino acid biosynthetic process (GO:1901607)	113	16	4.11	+	3.89	2.04E-02
+purine nucleotide metabolic process (GO:0006163)	114	16	4.15	+	3.86	2.25E-02
+cellular amino acid biosynthetic process (GO:0008652)	127	17	4.62	+	3.68	2.09E-02
+alpha-amino acid metabolic process (GO:1901605)	173	23	6.29	+	3.66	5.85E-04
+purine-containing compound metabolic process (GO:0072521)	129	17	4.69	+	3.62	2.52E-02
+cellular amino acid metabolic process (GO:0006520)	240	31	8.73	+	3.55	7.52E-06
+carboxylic acid metabolic process (GO:0019752)	392	49	14.25	+	3.44	2.57E-10
+monocarboxylic acid metabolic process (GO:0032787)	154	19	5.60	+	3.39	1.81E-02
+organic hydroxy compound metabolic process (GO:1901615)	154	19	5.60	+	3.39	1.81E-02
+oxoacid metabolic process (GO:0043436)	410	50	14.91	+	3.35	3.26E-10
+generation of precursor metabolites and energy (GO:0006091)	197	24	7.16	+	3.35	1.36E-03
+organic acid metabolic process (GO:0006082)	413	50	15.02	+	3.33	4.21E-10
+small molecule biosynthetic process (GO:0044283)	314	38	11.42	+	3.33	5.56E-07
+fungal-type cell wall organization or biogenesis (GO:0071852)	210	25	7.64	+	3.27	1.15E-03
+cytoplasmic translation (GO:0002181)	170	20	6.18	+	3.24	1.98E-02
+cell wall organization (GO:0071555)	227	26	8.25	+	3.15	1.33E-03
+external encapsulating structure organization (GO:0045229)	227	26	8.25	+	3.15	1.33E-03
+nucleotide metabolic process (GO:0009117)	198	22	7.20	+	3.06	1.61E-02
+nucleoside phosphate metabolic process (GO:0006753)	206	22	7.49	+	2.94	2.86E-02
+nucleobase-containing small molecule metabolic process (GO:0055086)	235	24	8.55	+	2.81	2.27E-02
+small molecule metabolic process (GO:0044281)	726	73	26.40	+	2.77	1.87E-12
+organophosphate metabolic process (GO:0019637)	378	37	13.75	+	2.69	1.89E-04
+cell wall organization or biogenesis (GO:0071554)	283	27	10.29	+	2.62	1.97E-02
+carbohydrate derivative metabolic process (GO:1901135)	336	32	12.22	+	2.62	2.76E-03
+amide biosynthetic process (GO:0043604)	413	35	15.02	+	2.33	1.25E-02
+organonitrogen compound biosynthetic process (GO:1901566)	870	68	31.64	+	2.15	2.04E-06
+phosphorus metabolic process (GO:0006793)	618	45	22.47	+	2.00	2.07E-02
+phosphate-containing compound metabolic process (GO:0006796)	599	43	21.78	+	1.97	4.66E-02
+biosynthetic process (GO:0009058)	1441	95	52.40	+	1.81	1.44E-06
+organic substance biosynthetic process (GO:1901576)	1420	93	51.64	+	1.80	3.46E-06
+cellular biosynthetic process (GO:0044249)	1380	82	50.18	+	1.63	4.39E-03
+organonitrogen compound metabolic process (GO:1901564)	1884	110	68.51	+	1.61	2.99E-05
+Unclassified (UNCLASSIFIED)	45	2	1.64	+	1.22	0.00E00
