@@ -1,0 +1,106 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20221013)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.6799722 Released 2022-07-01
+Analyzed List:	upload_1 (Drosophila melanogaster)
+Reference List:	Drosophila melanogaster (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	3537
+GO biological process complete	Drosophila melanogaster - REFLIST (13821)	upload_1 (394)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+heat shock-mediated polytene chromosome puffing (GO:0035080)	9	6	.26	+	23.39	6.25E-03
+polytene chromosome puffing (GO:0035079)	10	6	.29	+	21.05	9.77E-03
+ATP generation from ADP (GO:0006757)	25	10	.71	+	14.03	8.35E-05
+glycolytic process (GO:0006096)	25	10	.71	+	14.03	8.35E-05
+ADP metabolic process (GO:0046031)	27	10	.77	+	12.99	1.51E-04
+purine ribonucleoside diphosphate metabolic process (GO:0009179)	27	10	.77	+	12.99	1.51E-04
+purine nucleoside diphosphate metabolic process (GO:0009135)	27	10	.77	+	12.99	1.51E-04
+nucleoside diphosphate phosphorylation (GO:0006165)	30	11	.86	+	12.86	3.42E-05
+nucleotide phosphorylation (GO:0046939)	31	11	.88	+	12.45	4.51E-05
+ribonucleoside diphosphate metabolic process (GO:0009185)	29	10	.83	+	12.10	2.62E-04
+cytoplasmic translation (GO:0002181)	118	40	3.36	+	11.89	6.46E-24
+pyruvate metabolic process (GO:0006090)	39	12	1.11	+	10.79	3.68E-05
+nucleoside diphosphate metabolic process (GO:0009132)	36	11	1.03	+	10.72	1.62E-04
+glucose metabolic process (GO:0006006)	30	9	.86	+	10.52	3.16E-03
+ATP metabolic process (GO:0046034)	55	16	1.57	+	10.20	2.52E-07
+purine ribonucleoside triphosphate metabolic process (GO:0009205)	59	17	1.68	+	10.11	7.23E-08
+purine nucleoside triphosphate metabolic process (GO:0009144)	60	17	1.71	+	9.94	9.05E-08
+ribonucleoside triphosphate metabolic process (GO:0009199)	62	17	1.77	+	9.62	1.40E-07
+fatty acid beta-oxidation (GO:0006635)	34	9	.97	+	9.29	7.63E-03
+cellular response to heat (GO:0034605)	35	9	1.00	+	9.02	9.36E-03
+nucleoside triphosphate metabolic process (GO:0009141)	67	17	1.91	+	8.90	3.95E-07
+protein refolding (GO:0042026)	32	8	.91	+	8.77	4.06E-02
+fatty acid oxidation (GO:0019395)	37	9	1.05	+	8.53	1.38E-02
+lipid oxidation (GO:0034440)	38	9	1.08	+	8.31	1.67E-02
+striated muscle cell development (GO:0055002)	47	10	1.34	+	7.46	1.14E-02
+myofibril assembly (GO:0030239)	47	10	1.34	+	7.46	1.14E-02
+glucose homeostasis (GO:0042593)	48	10	1.37	+	7.31	1.34E-02
+hexose metabolic process (GO:0019318)	49	10	1.40	+	7.16	1.58E-02
+carbohydrate catabolic process (GO:0016052)	59	12	1.68	+	7.13	1.80E-03
+monocarboxylic acid catabolic process (GO:0072329)	52	10	1.48	+	6.75	2.51E-02
+muscle cell development (GO:0055001)	61	11	1.74	+	6.33	1.51E-02
+translation (GO:0006412)	304	51	8.67	+	5.88	5.33E-19
+peptide biosynthetic process (GO:0043043)	310	51	8.84	+	5.77	1.16E-18
+monocarboxylic acid metabolic process (GO:0032787)	191	31	5.44	+	5.69	3.46E-10
+chitin-based cuticle development (GO:0040003)	198	32	5.64	+	5.67	1.51E-10
+generation of precursor metabolites and energy (GO:0006091)	193	30	5.50	+	5.45	2.37E-09
+carboxylic acid catabolic process (GO:0046395)	111	17	3.16	+	5.37	3.12E-04
+actomyosin structure organization (GO:0031032)	85	13	2.42	+	5.36	1.05E-02
+organic acid catabolic process (GO:0016054)	112	17	3.19	+	5.32	3.50E-04
+cuticle development (GO:0042335)	232	35	6.61	+	5.29	5.80E-11
+amide biosynthetic process (GO:0043604)	350	52	9.98	+	5.21	2.59E-17
+protein folding (GO:0006457)	138	20	3.93	+	5.08	5.19E-05
+peptide metabolic process (GO:0006518)	410	56	11.69	+	4.79	2.56E-17
+small molecule catabolic process (GO:0044282)	170	23	4.85	+	4.75	1.39E-05
+purine ribonucleotide metabolic process (GO:0009150)	172	23	4.90	+	4.69	1.69E-05
+purine nucleotide metabolic process (GO:0006163)	178	23	5.07	+	4.53	3.05E-05
+ribonucleotide metabolic process (GO:0009259)	181	23	5.16	+	4.46	4.05E-05
+ribose phosphate metabolic process (GO:0019693)	185	23	5.27	+	4.36	5.87E-05
+nucleotide metabolic process (GO:0009117)	221	27	6.30	+	4.29	4.58E-06
+fatty acid metabolic process (GO:0006631)	140	17	3.99	+	4.26	5.96E-03
+organic acid metabolic process (GO:0006082)	384	46	10.95	+	4.20	9.36E-12
+nucleoside phosphate metabolic process (GO:0006753)	226	27	6.44	+	4.19	7.12E-06
+cellular amide metabolic process (GO:0043603)	494	59	14.08	+	4.19	7.77E-16
+carboxylic acid metabolic process (GO:0019752)	379	45	10.80	+	4.17	2.59E-11
+oxoacid metabolic process (GO:0043436)	380	45	10.83	+	4.15	2.82E-11
+purine-containing compound metabolic process (GO:0072521)	203	24	5.79	+	4.15	6.88E-05
+cellular macromolecule biosynthetic process (GO:0034645)	505	52	14.40	+	3.61	3.58E-11
+nucleobase-containing small molecule metabolic process (GO:0055086)	278	28	7.93	+	3.53	1.08E-04
+carbohydrate metabolic process (GO:0005975)	245	24	6.98	+	3.44	1.70E-03
+cellular nitrogen compound biosynthetic process (GO:0044271)	714	66	20.35	+	3.24	8.13E-13
+organonitrogen compound biosynthetic process (GO:1901566)	811	71	23.12	+	3.07	6.94E-13
+chemical homeostasis (GO:0048878)	286	25	8.15	+	3.07	6.79E-03
+small molecule metabolic process (GO:0044281)	778	67	22.18	+	3.02	1.20E-11
+macromolecule biosynthetic process (GO:0009059)	707	54	20.15	+	2.68	5.74E-07
+response to abiotic stimulus (GO:0009628)	414	31	11.80	+	2.63	8.57E-03
+homeostatic process (GO:0042592)	462	34	13.17	+	2.58	6.37E-03
+organophosphate metabolic process (GO:0019637)	411	30	11.72	+	2.56	3.21E-02
+anatomical structure formation involved in morphogenesis (GO:0048646)	531	37	15.14	+	2.44	4.75E-03
+organic substance biosynthetic process (GO:1901576)	1218	83	34.72	+	2.39	9.78E-10
+biosynthetic process (GO:0009058)	1244	83	35.46	+	2.34	3.11E-09
+cellular biosynthetic process (GO:0044249)	1194	78	34.04	+	2.29	6.35E-08
+organic substance catabolic process (GO:1901575)	835	50	23.80	+	2.10	4.72E-03
+catabolic process (GO:0009056)	945	53	26.94	+	1.97	1.71E-02
+multicellular organism development (GO:0007275)	2125	111	60.58	+	1.83	8.27E-07
+organonitrogen compound metabolic process (GO:1901564)	2755	143	78.54	+	1.82	4.50E-10
+cellular nitrogen compound metabolic process (GO:0034641)	1835	95	52.31	+	1.82	3.57E-05
+anatomical structure development (GO:0048856)	2531	130	72.15	+	1.80	2.69E-08
+cellular macromolecule metabolic process (GO:0044260)	1355	69	38.63	+	1.79	1.23E-02
+anatomical structure morphogenesis (GO:0009653)	1466	74	41.79	+	1.77	7.62E-03
+developmental process (GO:0032502)	2665	132	75.97	+	1.74	1.83E-07
+multicellular organismal process (GO:0032501)	3331	155	94.96	+	1.63	1.47E-07
+protein metabolic process (GO:0019538)	2191	98	62.46	+	1.57	1.93E-02
+cellular metabolic process (GO:0044237)	3578	155	102.00	+	1.52	3.47E-05
+primary metabolic process (GO:0044238)	4067	176	115.94	+	1.52	1.04E-06
+response to stimulus (GO:0050896)	2530	109	72.12	+	1.51	2.50E-02
+organic substance metabolic process (GO:0071704)	4308	185	122.81	+	1.51	4.50E-07
+metabolic process (GO:0008152)	4578	194	130.51	+	1.49	2.96E-07
+cellular process (GO:0009987)	7238	294	206.34	+	1.42	2.06E-15
+nitrogen compound metabolic process (GO:0006807)	3713	149	105.85	+	1.41	1.06E-02
+biological_process (GO:0008150)	11382	384	324.47	+	1.18	3.79E-17
+protein modification process (GO:0036211)	1143	11	32.58	-	.34	4.88E-02
+macromolecule modification (GO:0043412)	1244	11	35.46	-	.31	7.30E-03
+Unclassified (UNCLASSIFIED)	2439	10	69.53	-	.14	0.00E00
