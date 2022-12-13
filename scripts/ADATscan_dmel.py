@@ -1,16 +1,8 @@
 #!/usr/bin/env python3
 """
-python TAPSLIVR.py <fasta> <null model output> <Enrichment and Depletion output> 
+python ADATscan_dmel.py <fasta> <null model output> <Enrichment and Depletion output> <gene body output>
 
-<fasta> should lack newline characters within the genes and should only contain coding seq (no introns)
 
-<output> is a file with 
-
-Note: null model of codon usage is generated using the fasta as input
-
-Note: if isoforms derived from the same coding sequence are not denoted with <gene>.1 <gene>.2 then line XXX must be modified 
-
-Note: 
 """
 
 
