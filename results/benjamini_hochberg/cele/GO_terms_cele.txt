@@ -1,0 +1,76 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20221013)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.6799722 Released 2022-07-01
+Analyzed List:	upload_1 (Caenorhabditis elegans)
+Reference List:	Caenorhabditis elegans (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	2644
+GO biological process complete	Caenorhabditis elegans - REFLIST (19811)	upload_1 (1320)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+glucose metabolic process (GO:0006006)	26	11	1.73	+	6.35	2.71E-02
+ribosomal large subunit biogenesis (GO:0042273)	52	21	3.46	+	6.06	5.47E-06
+hexose metabolic process (GO:0019318)	38	13	2.53	+	5.13	2.81E-02
+cytoplasmic translation (GO:0002181)	50	17	3.33	+	5.10	1.37E-03
+translation (GO:0006412)	265	77	17.66	+	4.36	5.64E-20
+purine ribonucleoside triphosphate metabolic process (GO:0009205)	59	17	3.93	+	4.32	9.07E-03
+peptide biosynthetic process (GO:0043043)	271	77	18.06	+	4.26	1.78E-19
+purine nucleoside triphosphate metabolic process (GO:0009144)	60	17	4.00	+	4.25	1.10E-02
+ATP metabolic process (GO:0046034)	57	16	3.80	+	4.21	2.31E-02
+ribonucleoside triphosphate metabolic process (GO:0009199)	63	17	4.20	+	4.05	1.90E-02
+amide biosynthetic process (GO:0043604)	309	79	20.59	+	3.84	1.18E-17
+nucleoside triphosphate metabolic process (GO:0009141)	68	17	4.53	+	3.75	4.44E-02
+generation of precursor metabolites and energy (GO:0006091)	146	33	9.73	+	3.39	4.89E-05
+protein folding (GO:0006457)	130	29	8.66	+	3.35	4.46E-04
+chromatin remodeling (GO:0006338)	104	22	6.93	+	3.17	2.77E-02
+ribosome biogenesis (GO:0042254)	200	42	13.33	+	3.15	3.98E-06
+peptide metabolic process (GO:0006518)	381	79	25.39	+	3.11	4.29E-13
+energy derivation by oxidation of organic compounds (GO:0015980)	107	22	7.13	+	3.09	4.08E-02
+non-membrane-bounded organelle assembly (GO:0140694)	148	28	9.86	+	2.84	1.22E-02
+ribonucleoprotein complex biogenesis (GO:0022613)	269	50	17.92	+	2.79	6.97E-06
+cellular amide metabolic process (GO:0043603)	472	86	31.45	+	2.73	1.52E-11
+cellular nitrogen compound biosynthetic process (GO:0044271)	639	114	42.58	+	2.68	1.76E-15
+cellular macromolecule biosynthetic process (GO:0034645)	540	93	35.98	+	2.58	2.52E-11
+macromolecule biosynthetic process (GO:0009059)	693	110	46.17	+	2.38	1.18E-11
+ncRNA processing (GO:0034470)	274	43	18.26	+	2.36	4.38E-03
+determination of adult lifespan (GO:0008340)	248	38	16.52	+	2.30	2.85E-02
+organonitrogen compound biosynthetic process (GO:1901566)	792	121	52.77	+	2.29	5.80E-12
+gene expression (GO:0010467)	1002	153	66.76	+	2.29	8.74E-16
+carboxylic acid metabolic process (GO:0019752)	408	61	27.18	+	2.24	1.57E-04
+oxoacid metabolic process (GO:0043436)	409	61	27.25	+	2.24	1.64E-04
+ncRNA metabolic process (GO:0034660)	346	50	23.05	+	2.17	6.80E-03
+organic substance biosynthetic process (GO:1901576)	1180	167	78.62	+	2.12	1.36E-14
+biosynthetic process (GO:0009058)	1209	170	80.56	+	2.11	1.14E-14
+cellular biosynthetic process (GO:0044249)	1149	160	76.56	+	2.09	2.26E-13
+organic acid metabolic process (GO:0006082)	448	62	29.85	+	2.08	1.59E-03
+small molecule metabolic process (GO:0044281)	765	104	50.97	+	2.04	4.22E-07
+cellular nitrogen compound metabolic process (GO:0034641)	1720	227	114.60	+	1.98	1.10E-17
+cellular macromolecule metabolic process (GO:0044260)	1290	165	85.95	+	1.92	7.30E-11
+RNA processing (GO:0006396)	505	64	33.65	+	1.90	1.53E-02
+cellular component biogenesis (GO:0044085)	819	101	54.57	+	1.85	7.16E-05
+organic substance catabolic process (GO:1901575)	806	98	53.70	+	1.82	1.96E-04
+RNA metabolic process (GO:0016070)	763	91	50.84	+	1.79	1.36E-03
+catabolic process (GO:0009056)	902	107	60.10	+	1.78	1.94E-04
+nucleobase-containing compound metabolic process (GO:0006139)	1297	153	86.42	+	1.77	2.60E-07
+heterocycle metabolic process (GO:0046483)	1350	158	89.95	+	1.76	1.90E-07
+cellular aromatic compound metabolic process (GO:0006725)	1354	157	90.22	+	1.74	4.17E-07
+organic cyclic compound metabolic process (GO:1901360)	1403	161	93.48	+	1.72	4.19E-07
+primary metabolic process (GO:0044238)	4044	452	269.45	+	1.68	5.39E-26
+nucleic acid metabolic process (GO:0090304)	1031	115	68.70	+	1.67	1.12E-03
+metabolic process (GO:0008152)	4519	498	301.10	+	1.65	2.01E-28
+organic substance metabolic process (GO:0071704)	4258	468	283.71	+	1.65	1.13E-25
+organonitrogen compound metabolic process (GO:1901564)	2727	295	181.70	+	1.62	1.09E-12
+nitrogen compound metabolic process (GO:0006807)	3620	391	241.20	+	1.62	1.35E-18
+cellular metabolic process (GO:0044237)	3676	393	244.93	+	1.60	6.51E-18
+organelle organization (GO:0006996)	1102	117	73.43	+	1.59	8.35E-03
+protein metabolic process (GO:0019538)	2188	231	145.79	+	1.58	4.39E-08
+macromolecule metabolic process (GO:0043170)	3183	330	212.08	+	1.56	2.70E-12
+cellular component organization or biogenesis (GO:0071840)	1957	197	130.39	+	1.51	6.85E-05
+cellular process (GO:0009987)	7617	729	507.52	+	1.44	3.04E-29
+developmental process (GO:0032502)	1811	172	120.67	+	1.43	1.83E-02
+biological_process (GO:0008150)	9839	920	655.57	+	1.40	9.53E-43
+multicellular organismal process (GO:0032501)	2299	208	153.18	+	1.36	3.44E-02
+Unclassified (UNCLASSIFIED)	9972	400	664.43	-	.60	0.00E00
