@@ -1,17 +1,8 @@
 #!/usr/bin/env python3
 """
-python ADATscan_generalized.py <fasta> <null model output> <Enrichment and Depletion output> 
+python ADATscan_generalized.py <fasta> <null model output> <Enrichment and Depletion output> <gene body output>
 
 user input the codons of interest 
-
-<fasta> should lack newline characters within the genes and should only contain coding seq (no introns)
-
-<null model output> is a file with the null model for the whole genome for codons of interest
-
-<Enrichment and Depletion output> is file containing enrichment and depletion data
-
-Note: null model of codon usage is generated using the fasta as input
-
  
 """
 
