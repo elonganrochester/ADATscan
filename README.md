@@ -18,7 +18,7 @@ Notation in these databases are idiosyncratic, hence serarate versions. When usi
 
 The example folder contains a text document that walks through running ADATscan and contains some example files 
 The scripts folder contains the five versions ADATsan
-The results folder contains data derived from ADATscan for human, mouse, nematode, fruit fly, and yeast exomes. Data derived from analyses using the Bonferroni correction and the Benjamini-Hochberg procedure (FDR = 0.01) are prvided in separate directories. 
+The results folder contains data derived from ADATscan for human, mouse, nematode, fruit fly, and yeast exomes. Data derived from analyses using the Bonferroni correction and the Benjamini-Hochberg procedure (FDR = 0.01) are provided in separate directories. 
 
 When using the software provided as it pertains to ADAT-dependent codons, it is critical that the subset of focal codons is correct. Check appropriate databases for tRNA genes that are present in the species of interest. 
 
